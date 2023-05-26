@@ -1,9 +1,27 @@
 # Image-Processing-Apps
 
+# 2. Python app
+First open the application, either the standalone app (.exe) or the python app:
 
-1. MATLAB app
+<img width="390" alt="tutorial_1_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c5c17601-0cda-42ba-8819-d89b6ee8522d">
 
-2. Python app
+You can either choose one file or multiple. The files must be sized 4056x3040, with up to 2 well plates
+
+<img width="468" alt="tutorial_2_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/d66481a0-fd4a-4d86-8e52-4b8dd0338f06">
+
+Once you click Open, the main application will appear on the screen
+
+<img width="468" alt="tutorial_3_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/6a8466b8-97bb-43f4-b0d6-095272e2f328">
+
+Press Run. You will be able to see the progress of the image processing. Once completed, you can view the results by clicking the button Check results
+
+<img width="468" alt="tutorial_4_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c0bd6234-fe0d-4d77-a7f8-6cc02bc77907">
+
+
+
+# 1. MATLAB app
+
+
 Both apps can be run as standalone applications
 
 Running Standalone
