@@ -1,6 +1,6 @@
 # Image-Processing-Apps
 
-# 2. Python app
+# 1. DuckPlate Python app
 First open the application, either the standalone app (.exe) or the python app:
 
 <img width="500" alt="tutorial_1_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c5c17601-0cda-42ba-8819-d89b6ee8522d">
