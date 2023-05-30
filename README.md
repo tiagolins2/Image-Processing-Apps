@@ -34,7 +34,7 @@ c.	Define plate dimensions
 4.	You can then run one of the three protocols
 
 Running as an executable (requires MATLAB runtime installation, no license needed)
-1.	If you do not wish to have MATLAB installed in your computer, go to MATLAB Runtime - MATLAB Compiler - MATLAB (mathworks.com) and install a version compatible with your operating system, with the runtime version number R2022a (9.12).  
+1.	If you do not wish to have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a version compatible with your operating system, with the runtime version number R2022a (9.12).  
 2.	Double click on the file Run_plate.exe
 
  <img width="409" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
