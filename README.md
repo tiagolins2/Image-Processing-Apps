@@ -21,6 +21,12 @@ Press Run. You will be able to see the progress of the image processing. Once co
 
 # 1. MATLAB app
 
+
+
+https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/499a27ce-5a79-4eea-ac24-bd58fddee771
+
+
+
 Running from the MATLAB Command Window (requires MATLAB installation, license needed)
 1.	Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
 
