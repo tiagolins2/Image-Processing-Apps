@@ -82,17 +82,17 @@ Create new training sets:
 
 Retraining the model: Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Colab. Follow the instructions for whichever model needs to be updated. Once done, download the model folder (.ckpt) and paste the unzipped version into the same directory as the python DuckPlate App. 
 
-[96-well plate model](https://colab.research.google.com/drive/1SWK6kakSI3wPSGP0gQQB-E_I8S3qVDag?usp=drive_link)
+[96-well plate model](https://colab.research.google.com/drive/1SWK6kakSI3wPSGP0gQQB-E_I8S3qVDag?usp=sharing)
 
-[24-well plate model](https://colab.research.google.com/drive/15lob3aiShyZJG4l3DHmr5fbzVLEOz9SH?usp=drive_link)
+[24-well plate model](https://colab.research.google.com/drive/15lob3aiShyZJG4l3DHmr5fbzVLEOz9SH?usp=sharing)
 
-[6-well plate model](https://colab.research.google.com/drive/1w2DEPqpE849efxu6ATihVbInGIgHKo0U?usp=drive_link)
+[6-well plate model](https://colab.research.google.com/drive/1w2DEPqpE849efxu6ATihVbInGIgHKo0U?usp=sharing)
 
-[96-well plate duckweed segmentation model](https://colab.research.google.com/drive/1xtNG2CfiPLJ98sW9E3y6FqvPkstC6M1J?usp=drive_link)
+[96-well plate duckweed segmentation model](https://colab.research.google.com/drive/1xtNG2CfiPLJ98sW9E3y6FqvPkstC6M1J?usp=sharing)
 
 [24-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=drive_link)
 
-[6-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=drive_link)
+[6-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=sharing)
 
 [Plate classifier model]
 
