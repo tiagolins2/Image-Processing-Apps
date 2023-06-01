@@ -78,7 +78,7 @@ Updating the models:
 In case a batch of new images is taken, it may be necessary to update/re-train the machine learning models with new data for better accuracy.
 
 
-Create new training sets:
+# 3. Create new training sets:
 
 Retraining the model: Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Colab. Follow the instructions for whichever model needs to be updated. Once done, download the model folder (.ckpt) and paste the unzipped version into the same directory as the python DuckPlate App. 
 
