@@ -11,11 +11,11 @@ You can either choose one file or multiple. The files must be sized 4056x3040, w
 
 Once you click Open, the main application will appear on the screen
 
-<img width="600" alt="tutorial_3_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/6a8466b8-97bb-43f4-b0d6-095272e2f328">
+<img width="650" alt="tutorial_3_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/6a8466b8-97bb-43f4-b0d6-095272e2f328">
 
 Press Run. You will be able to see the progress of the image processing. Once completed, you can view the results by clicking the button Check results
 
-<img width="600" alt="tutorial_4_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c0bd6234-fe0d-4d77-a7f8-6cc02bc77907">
+<img width="650" alt="tutorial_4_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c0bd6234-fe0d-4d77-a7f8-6cc02bc77907">
 
 
 
@@ -43,11 +43,11 @@ Running as an executable (requires MATLAB runtime installation, no license neede
 1.	If you do not wish to have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a version compatible with your operating system, with the runtime version number R2022a (9.12).  
 2.	Double click on the file Run_plate.exe
 
- <img width="409" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
+ <img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
 
 3.	A black window will appear. Keep it open whenever using the app, and wait for the main app to load
 4.	
- <img width="468" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
+ <img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
 
 
 4.	Once open, check that all settings correspond to what time of plate image you want to process. You can then run either one of the three protocols. For more information, you can click on the headings for a description of each setting.
@@ -57,19 +57,19 @@ Processing a single well plate
 1.	To process a single plate image, first select the desired well plate dimension (i.e. 24) 
 2.	Click on RUN SINGLE PLATE, as shown below:
 
- <img width="468" alt="tutorial_11_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/23c712d7-b0f4-4755-a35b-91f4634f20a9">
+ <img width="650" alt="tutorial_11_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/23c712d7-b0f4-4755-a35b-91f4634f20a9">
 
 3.	You will be prompted to select an image. Make sure the selection is a raw image as shown below 
  
-<img width="306" alt="tutorial_12_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/e9bb0f3d-1112-4956-af17-67f419392fc5">
+<img width="400" alt="tutorial_12_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/e9bb0f3d-1112-4956-af17-67f419392fc5">
 
 4.	Next, a window will be displayed asking you to click anywhere on side you want to be selected. Here, I selected the plate on the left side (plate 1). Once you click, this window will automatically disappear. 
 
- <img width="264" alt="tutorial_13_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/a0f7ffac-dac9-46f9-81b1-0bd2e0ddfbdc">
+ <img width="400" alt="tutorial_13_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/a0f7ffac-dac9-46f9-81b1-0bd2e0ddfbdc">
 
 5.	You can view the progress on the main app window. Wait until the app says completed. You can also click to view results on your computer
  
- <img width="468" alt="tutorial_14_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/7299a404-9612-4d68-af1e-0c1b39489470">
+ <img width="650" alt="tutorial_14_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/7299a404-9612-4d68-af1e-0c1b39489470">
 
 6.	You can continue processing other images or exit the app.
 
