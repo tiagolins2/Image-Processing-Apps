@@ -74,36 +74,19 @@ Processing a single well plate
 6.	You can continue processing other images or exit the app.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Both apps can be run as standalone applications
-
-Running Standalone
-a. Double click on the .exe file
-b. A black window will open. Do not close this window while running the app
-c. Once the app is fully loaded, the following window will appear, prompting you to select a file to process
-d. Click on the button, and select the file(s) you want to process (note that each image must be sized 4056x3040, and should contain two plates side by side. If one or both of the spots are empty, the app can still process the image)
-e. 
-DuckPlate app:
-
-This app implements trained models to process well plate images
-
-
-Update the models: 
-In case a batch of new images is taken, it may be necessary to update the machine learning models with new data.
+Updating the models: 
+In case a batch of new images is taken, it may be necessary to update/re-train the machine learning models with new data for better accuracy.
 
 
 Create new training sets:
 
-Retraining the model: Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Collab 
+Retraining the model: Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Colab. Follow the instructions for whichever model needs to be updated. Once done, download the model folder (.ckpt) and paste the unzipped version into the same directory as the python DuckPlate App. 
+
+[96-well plate model](https://colab.research.google.com/drive/1SWK6kakSI3wPSGP0gQQB-E_I8S3qVDag?usp=drive_link)
+[24-well plate model](https://colab.research.google.com/drive/15lob3aiShyZJG4l3DHmr5fbzVLEOz9SH?usp=drive_link)
+[6-well plate model](https://colab.research.google.com/drive/1w2DEPqpE849efxu6ATihVbInGIgHKo0U?usp=drive_link)
+[96-well plate duckweed segmentation model](https://colab.research.google.com/drive/1xtNG2CfiPLJ98sW9E3y6FqvPkstC6M1J?usp=drive_link)
+[24-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=drive_link)
+[6-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=drive_link)
+[Plate classifier model]
+
