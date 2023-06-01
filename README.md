@@ -74,13 +74,9 @@ Processing a single well plate
 6.	You can continue processing other images or exit the app.
 
 
-Updating the models: 
-In case a batch of new images is taken, it may be necessary to update/re-train the machine learning models with new data for better accuracy.
+# 3. Updating the models
 
-
-# 3. Create new training sets:
-
-Retraining the model: Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Colab. Follow the instructions for whichever model needs to be updated. Once done, download the model folder (.ckpt) and paste the unzipped version into the same directory as the python DuckPlate App. 
+In case a batch of new images is taken, it may be necessary to update/re-train the machine learning models with new data for better accuracy. Although the model is written in python, retraining it should not require any previous Python knowledge. The training can be done in Google Colab. Follow the instructions for whichever model needs to be updated. Once done, download the model folder (.ckpt) and paste the unzipped version into the same directory as the python DuckPlate App. 
 
 [96-well plate model](https://colab.research.google.com/drive/1SWK6kakSI3wPSGP0gQQB-E_I8S3qVDag?usp=sharing)
 
@@ -95,4 +91,8 @@ Retraining the model: Although the model is written in python, retraining it sho
 [6-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=sharing)
 
 [Plate classifier model]
+
+
+
+
 
