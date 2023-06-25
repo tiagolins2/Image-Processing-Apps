@@ -8,9 +8,9 @@
 
 # 1. DuckPlate Python ML app
 ## A. Installation
-1. Download the standalone application and all files as a zip from the link [here](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/EhNnvqSbE5VBgAoeNcS5yy8BzC4xzlVOx3MtjfiqbXLw5w?e=4cRXnZ) (this requires a utoronto account)
+1. Download the standalone application and all files as a zip from the link [here](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/EhNnvqSbE5VBgAoeNcS5yy8BzC4xzlVOx3MtjfiqbXLw5w?e=4cRXnZ) (note that this requires a utoronto account)
 
-2. Extract all items into your computer
+2. Extract all items into your computer and keep them in the same folder
 
 ## B. Running the app   
 
@@ -37,10 +37,22 @@ This app will output the raw well images, binary masks, and data for each well i
 
 # 2. MATLAB app
 
+## A. No MATLAB license
 
+1.	If you do not have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a runtime version compatible with your operating system, number R2022a (9.12). The installation may take a few minutes
+   
+2.	Download the standalone application and all files as a zip from this [link](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/Eq9K6HC-96xBvzn1kZmV7p4Bt9MbcT8s_sPUVPt2MjHXOQ?e=cqL88e) (note that this requires a utoronto account)
+   
+3.	Extract all items into your computer and keep them in the same folder
+   
+4. To run the app, double click on the file Run_plate.exe.
+   
+5. Skip set B and and go directly to step C below for more details
+
+
+## B. No MATLAB license
 
 https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/499a27ce-5a79-4eea-ac24-bd58fddee771
-
 
 
 Running from the MATLAB Command Window (requires MATLAB installation, license needed)
@@ -55,9 +67,7 @@ b.	Select settings on the check boxes
 c.	Define plate dimensions
 4.	You can then run one of the three protocols
 
-Running as an executable (requires MATLAB runtime installation, no license needed)
-1.	If you do not wish to have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a version compatible with your operating system, with the runtime version number R2022a (9.12).  
-2.	Double click on the file Run_plate.exe
+
 
  <img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
 
