@@ -45,9 +45,15 @@ This app will output the raw well images, binary masks, and data for each well i
    
 3.	Extract all items into your computer and keep them in the same folder
    
-4. To run the app, double click on the file Run_plate.exe.
+4. To open the app, double click on the file Run_plate.exe.
    
-5. Skip set B and and go directly to step C below for more details
+<img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
+
+5.	A black window will appear. Keep it open whenever using the app, and wait for the main app to load
+
+ <img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
+	    
+7. Skip set B and and go directly to step C below for more details
 
 
 ## B. No MATLAB license
@@ -65,25 +71,13 @@ This app will output the raw well images, binary masks, and data for each well i
 
 ## C. Running app 
 
-
 https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/499a27ce-5a79-4eea-ac24-bd58fddee771
 
-3.	Once open, check the settings for the type of plate you will run. For more information, you can click on the headings for a description of each setting. Ensure that:
+1.	Once open, check the settings for the type of plate you will run. For more information, you can click on the headings for a description of each setting. Ensure that:
 a.	HSV color threshold settings are defined properly. The default ones may be from another run and could work well with your plate images
 b.	Select settings on the check boxes
 c.	Define plate dimensions
 4.	You can then run one of the three protocols
-
-
- <img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
-
-3.	A black window will appear. Keep it open whenever using the app, and wait for the main app to load
-4.	
- <img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
-
-
-4.	Once open, check that all settings correspond to what time of plate image you want to process. You can then run either one of the three protocols. For more information, you can click on the headings for a description of each setting.
-
 
 Processing a single well plate
 1.	To process a single plate image, first select the desired well plate dimension (i.e. 24) 
