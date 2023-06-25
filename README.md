@@ -90,7 +90,7 @@ In case a batch of new images is taken, it may be necessary to update/re-train t
 
 [6-well plate duckweed segmentation model](https://colab.research.google.com/drive/1HeqZZpXBZMp_WpJcKre9nkv6bFAdhlaX?usp=sharing)
 
-[Plate classifier model]
+[Plate classifier model](https://www.kaggle.com/code/tflins/plate-identifier)
 
 
 
