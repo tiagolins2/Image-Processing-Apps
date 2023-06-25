@@ -47,9 +47,11 @@ This app will output the raw well images, binary masks, and data for each well i
    
 4. To open the app, double click on the file Run_plate.exe.
    
+   
 <img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
 
 5. A black window will appear. Keep it open whenever using the app, and wait for the main app to load
+   
 
 <img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
 	    
@@ -60,6 +62,7 @@ This app will output the raw well images, binary masks, and data for each well i
 1. Open MATLAB in your computer
    
 2. Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
+   
 
  ![tutorial_8_pro](https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/a8187ff5-e2b3-42e4-95aa-e6df1ab9da11)
 
@@ -74,13 +77,18 @@ This app will output the raw well images, binary masks, and data for each well i
 https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/499a27ce-5a79-4eea-ac24-bd58fddee771
 
 1.	Once open, check the settings for the type of plate you will run. For more information, you can click on the headings for a description of each setting. Ensure that:
+   
 a.	HSV color threshold settings are defined properly. The default ones may be from another run and could work well with your plate images
+
 b.	Select settings on the check boxes
+
 c.	Define plate dimensions
+
 4.	You can then run one of the three protocols
 
 Processing a single well plate
-1.	To process a single plate image, first select the desired well plate dimension (i.e. 24) 
+1.	To process a single plate image, first select the desired well plate dimension (i.e. 24)
+   
 2.	Click on RUN SINGLE PLATE, as shown below:
 
  <img width="650" alt="tutorial_11_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/23c712d7-b0f4-4755-a35b-91f4634f20a9">
