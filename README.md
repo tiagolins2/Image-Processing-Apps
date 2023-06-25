@@ -8,6 +8,7 @@
 
 # 1. DuckPlate Python ML app
 ## A. Installation
+1. Download the standalone application and all files from the link [here](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/EhNnvqSbE5VBgAoeNcS5yy8BzC4xzlVOx3MtjfiqbXLw5w?e=4cRXnZ)
 
 First open the application, either the standalone app (.exe) or the python app:
 
