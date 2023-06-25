@@ -58,7 +58,7 @@ This app will output the raw well images, binary masks, and data for each well i
 6. Skip set B and and go directly to step C below for more details
 
 
-## B. No MATLAB license
+## B. With MATLAB license
 1. Open MATLAB in your computer
    
 2. Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
