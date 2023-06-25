@@ -1,6 +1,14 @@
 # Image-Processing-Apps
 
-# 1. DuckPlate Python app
+[1. DuckPlate Python ML app](#1-duckplate-python-ml-app)
+
+[2. MATLAB app](#2-matlab-app)
+
+
+
+# 1. DuckPlate Python ML app
+## A. Installation
+
 First open the application, either the standalone app (.exe) or the python app:
 
 <img width="500" alt="tutorial_1_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c5c17601-0cda-42ba-8819-d89b6ee8522d">
@@ -19,7 +27,7 @@ Press Run. You will be able to see the progress of the image processing. Once co
 
 
 
-# 1. MATLAB app
+# 2. MATLAB app
 
 
 
