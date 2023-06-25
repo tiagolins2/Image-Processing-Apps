@@ -51,16 +51,27 @@ This app will output the raw well images, binary masks, and data for each well i
 
 
 ## B. No MATLAB license
+1. Open MATLAB in your computer
+   
+2.	Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
 
 https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/499a27ce-5a79-4eea-ac24-bd58fddee771
 
+4.	Next, write the following on the command window: Run_plate , or simply click open Run_plate.m file and press run
+   
+3.	Go to step C below to view more details on how to run the app
 
-Running from the MATLAB Command Window (requires MATLAB installation, license needed)
-1.	Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
 
+
+## C. Running app 
  ![tutorial_8_pro](https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/a8187ff5-e2b3-42e4-95aa-e6df1ab9da11)
 
-2.	Next, write the following on the command window: Run_plate , or simply click open Run_plate.m file and press run
+
+
+
+
+Running from the MATLAB Command Window (requires MATLAB installation, license needed)
+
 3.	Once open, check the settings for the type of plate you will run. For more information, you can click on the headings for a description of each setting. Ensure that:
 a.	HSV color threshold settings are defined properly. The default ones may be from another run and could work well with your plate images
 b.	Select settings on the check boxes
