@@ -8,10 +8,13 @@
 
 # 1. DuckPlate Python ML app
 ## A. Installation
-1. Download the standalone application and all files from the link [here](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/EhNnvqSbE5VBgAoeNcS5yy8BzC4xzlVOx3MtjfiqbXLw5w?e=4cRXnZ)
+1. Download the standalone application and all files as a zip from the link [here](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/EhNnvqSbE5VBgAoeNcS5yy8BzC4xzlVOx3MtjfiqbXLw5w?e=4cRXnZ) (this requires a utoronto account)
 
-First open the application, either the standalone app (.exe) or the python app:
+2. Extract all items into your computer
 
+3. Double click DuckPlate_Image_Processing_App_v2.exe to run the app. A window will appear. Do not close it while the app is running.
+   
+4. Once the app is ready and loaded, the following 
 <img width="500" alt="tutorial_1_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c5c17601-0cda-42ba-8819-d89b6ee8522d">
 
 You can either choose one file or multiple. The files must be sized 4056x3040, with up to 2 well plates
