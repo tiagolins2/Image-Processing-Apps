@@ -39,33 +39,33 @@ This app will output the raw well images, binary masks, and data for each well i
 
 ## A. No MATLAB license
 
-1.	If you do not have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a runtime version compatible with your operating system, number R2022a (9.12). The installation may take a few minutes
+1. If you do not have MATLAB installed in your computer, go to [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html) and install a runtime version compatible with your operating system, number R2022a (9.12). The installation may take a few minutes
    
-2.	Download the standalone application and all files as a zip from this [link](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/Eq9K6HC-96xBvzn1kZmV7p4Bt9MbcT8s_sPUVPt2MjHXOQ?e=cqL88e) (note that this requires a utoronto account)
+2. Download the standalone application and all files as a zip from this [link](https://utoronto-my.sharepoint.com/:f:/g/personal/tiago_lins_mail_utoronto_ca/Eq9K6HC-96xBvzn1kZmV7p4Bt9MbcT8s_sPUVPt2MjHXOQ?e=cqL88e) (note that this requires a utoronto account)
    
-3.	Extract all items into your computer and keep them in the same folder
+3. Extract all items into your computer and keep them in the same folder
    
 4. To open the app, double click on the file Run_plate.exe.
    
 <img width="600" alt="tutorial_9_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/c6246ba8-8a24-46ce-ac01-f4b8c90e3e1f">
 
-5.	A black window will appear. Keep it open whenever using the app, and wait for the main app to load
+5. A black window will appear. Keep it open whenever using the app, and wait for the main app to load
 
- <img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
+<img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
 	    
-7. Skip set B and and go directly to step C below for more details
+6. Skip set B and and go directly to step C below for more details
 
 
 ## B. No MATLAB license
 1. Open MATLAB in your computer
    
-2.	Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
+2. Prior to opening the image processing app on the command window, make sure that the current folder corresponds to the folder where the code is located at.
 
  ![tutorial_8_pro](https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/a8187ff5-e2b3-42e4-95aa-e6df1ab9da11)
 
-4.	Next, write the following on the command window: Run_plate , or simply click open Run_plate.m file and press run
+3. Next, write the following on the command window: Run_plate , or simply click open Run_plate.m file and press run
    
-3.	Go to step C below to view more details on how to run the app
+4. Go to step C below to view more details on how to run the app
 
 
 
