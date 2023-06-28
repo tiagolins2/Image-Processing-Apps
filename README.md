@@ -54,8 +54,6 @@ This app will output the raw well images, binary masks, and data for each well i
 
 5. A black window will appear. Keep it open whenever using the app, and wait for the main app to load
    
-
-<img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
 	    
 6. Skip set B and and go directly to step C below for more details
 
@@ -85,6 +83,8 @@ a.	HSV color threshold settings are defined properly. The default ones may be fr
 b.	Select settings on the check boxes
 
 c.	Define plate dimensions
+
+<img width="650" alt="tutorial_10_pro" src="https://github.com/tiagolins2/Image-Processing-Apps/assets/95873122/436d4c70-f545-406f-9954-4a6d7b1f54a9">
 
 4.	You can then run one of the three protocols
 
