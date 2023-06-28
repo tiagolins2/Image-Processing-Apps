@@ -1,6 +1,6 @@
 # Image-Processing-Apps
 
-You have two different options to process your data. Note that they may provide different results from each other. Click on the option below that you would like to explore further
+I have created two different options to process your duckweed image data. Note that they may provide different results from each other. Click on the option below that you would like to explore further
 
 [1. DuckPlate Python ML app](#1-duckplate-python-ml-app)
 
